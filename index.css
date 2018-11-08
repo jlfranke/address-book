@@ -1,0 +1,21 @@
+/* Reset Page Margin and Padding */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* Page Styling */
+body{
+  font-family: "Book Antiqua", serif;
+}
+
+/* Header Styling */
+header{
+  margin: 25px 0;
+  text-align: center;
+}
+
+/* Table Styling */
+table{
+  text-align: center;
+}
